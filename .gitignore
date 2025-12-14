@@ -30,6 +30,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+**/catboost_info/**
 
 # Виртуальное окружение (если используется)
 venv/
